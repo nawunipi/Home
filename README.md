@@ -1,6 +1,6 @@
 # Hello!
 
-** Repositories are under construction and past projects are in progress of being uploaded. Thank you for your patience!**
+**Repositories are under construction and past projects are in progress of being uploaded. Thank you for your patience!**
 
 Here you will find projects from following courses (university projects) or subject areas (personal projects):
 
